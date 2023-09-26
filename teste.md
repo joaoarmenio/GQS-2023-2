@@ -8,4 +8,5 @@ sequenceDiagram
     John-->>Alice: Great!
     Alice-)John: See you later!
     John-->>Anna: See this change.
+    Anna->>John: Ok. I saw.
 ```
