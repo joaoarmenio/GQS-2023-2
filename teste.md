@@ -7,5 +7,5 @@ sequenceDiagram
     Alice->>John: Hello John, how are you?
     John-->>Alice: Great!
     Alice-)John: See you later!
-    John-->>Anna: See this change.
+    John-->>Anna: See this change I did.
 ```
